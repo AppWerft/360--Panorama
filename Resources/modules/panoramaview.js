@@ -7,8 +7,7 @@ Panorama.prototype.removeImages = function() {
 		try {
 			this.panocontainer.remove(this.images[i]);
 		} catch(E) {
-
-		};
+		}
 	}
 };      
 
