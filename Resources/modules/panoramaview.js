@@ -10,7 +10,7 @@ Panorama.prototype.removeImages = function() {
 
 		};
 	}
-};   
+};      
 
 Panorama.prototype.init = function(options) {
 	this.options = options;
